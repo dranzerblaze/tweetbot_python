@@ -6,6 +6,6 @@ An automated bot based on python and "tweepy" module to automatically tweet to a
 <b>2.</b> Then, Open ```http://apps.twitter.com``` & Sign-in with your twitter account.<br />
 <b>3.</b> Next, Click on "Create new app" & enter requisite details.<br />
 <b>4.</b> Then, Copy the 4 API secret keys and paste them accordingly to the python script (TweetBot.py).<br />
-<b>5.</b> Finally, Run the python script in a python interpretor or IDLE.<br /><br />
+<b>5.</b> Finally, Run the python script in a python interpretor or IDE like Spyder or PyCHarm.<br /><br />
 
 <b>Courtesy - </b> ```http://cyberlabs.club/files_resources/Session_1_codes_Shril_Bhardwaj.7z``` & ```http://cyberlabs.club/files_resources/Intro2Programming-ShrilBhardwaj.pdf```
