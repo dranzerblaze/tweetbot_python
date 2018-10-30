@@ -10,7 +10,7 @@ CONSUMER_SECRET = "Enter Token Here"
 ACCESS_TOKEN = "Enter Token Here"
 ACCESS_TOKEN_SECRET = "Enter Token Here"
 
-#Verification Process
+#This is the verification process
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
